@@ -1,4 +1,4 @@
-# Selim Karaca 👋
+# Selim 👋
 
 ### 🚀 About Me
 I am an 8th-grade student passionate about software systems and architecture. I enjoy pushing the limits of mobile devices through tablet and phone modding, and I actively manage my own Minecraft servers.
